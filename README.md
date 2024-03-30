@@ -1,4 +1,4 @@
-# Markdown-previewer
+# QuickMark Previewer
 
 Above is the link to the Task which is done on codesandbox. Please check out.
 
